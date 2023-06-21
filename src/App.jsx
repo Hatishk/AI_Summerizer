@@ -15,7 +15,7 @@ const App = () => {
             <Demo/>
         </div>
     </main>
-  )
-}
+  );
+};
 
 export default App
